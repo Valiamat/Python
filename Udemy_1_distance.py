@@ -12,3 +12,4 @@ Yy = int(Yy_str)
 rasst = math.sqrt((Xx-Xy)**2+(Yx-Yy)**2)
 rasst_okr = round(rasst, 3)
 print(rasst_okr)
+ 
