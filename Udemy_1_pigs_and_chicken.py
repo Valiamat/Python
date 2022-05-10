@@ -11,3 +11,4 @@ cows_legs = cows*4
 pigs_legs = pigs*4
 chicken_legs = chicken*2
 print (cows_legs + pigs_legs + chicken_legs)
+ 
