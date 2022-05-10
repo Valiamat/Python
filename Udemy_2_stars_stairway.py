@@ -4,3 +4,4 @@ lines = input ("Введите количество строк: ")
 int_lines = int(lines)
 for i in range(0, int_lines+1): 
     print(i * '*')
+ 
